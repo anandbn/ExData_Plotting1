@@ -1,3 +1,6 @@
+## The below R code snippet assumes the file 'household_power_consumption.txt' is available
+## in current working directory for R
+
 ## Set the custom date and time formats as 'myDate' and 'myTime' classes
 
 setClass('myDate')
